@@ -6,6 +6,8 @@ Dit is een practicum waarin leerlingen zelf met schaalmodellen de stroming en kw
 
 - [Practicum: Ontdek de verborgen wereld van ons grondwater](https://www.wur.nl/nl/onderwijs/pre-university/practicum-ontdek-de-verborgen-wereld-van-ons-grondwater)
 
+<img src="figs/grondwatermodel.jpeg" alt="Grondwaterschaalmodel" height="250">
+
 ## Lesmodules voor in de klas
 
 Deze digitale lesmodules kun je zelf gebruiken op school.
@@ -16,10 +18,12 @@ Deze digitale lesmodules kun je zelf gebruiken op school.
 - `Junior consultancy training' project, eventueel te combineren met een bezoek aan Wageningen: [Casus stad van de toekomst](https://www.wur.nl/nl/onderwijs/pre-university/voor-docenten/activiteiten-voor-leerlingen/casus-stad-van-de-toekomst)
 <!-- - Lesmodule [Stikstof: Wat is het probleem?](https://www.lessonup.com/en/channel/4tuschools/lesson/BgagqNBMFLsPjtWtN) --->
 
+<img src="figs/lessonup_stadsklimaat.png" alt="4TUschools-module stadsklimaa" height="250">
+
 ## Docentendagen
 
 Kom zelf naar Wageningen voor interessante nascholingsactiviteiten.
 - [Docentendag Turbulente tijden: de natuurkunde achter rivieren en wolken](https://www.wur.nl/nl/activiteit/docentendag-turbulente-tijden-de-natuurkunde-achter-rivieren-en-wolken)
 - [Docentendag Aardrijkskunde en biologie: Van klimaatuitdagingen naar natuurinclusieve oplossingen](https://www.wur.nl/nl/activiteit/docentendag-aardrijkskunde-en-biologie-van-klimaatuitdagingen-naar-natuurinclusieve-oplossingen)
 
-
+<img src="figs/hydraulics_lab.jpg" alt="WaterTechLab" height="250">
