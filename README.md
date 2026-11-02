@@ -21,6 +21,7 @@ Deze digitale lesmodules kun je zelf gebruiken op school.
 - Lessnack [Hoe heet is jouw stad?](https://www.wur.nl/nl/onderwijs/pre-university/voor-docenten/lesmateriaal/lessnack-hoe-heet-jouw-stad)
 - NLT-lesmodule, eventueel te combineren met een bezoek aan Wageningen [Summer in the City](https://www.wur.nl/nl/onderwijs/pre-university/voor-docenten/lesmodules/summer-city)
 - `Junior consultancy training' project, eventueel te combineren met een bezoek aan Wageningen [Casus stad van de toekomst](https://www.wur.nl/nl/onderwijs/pre-university/voor-docenten/activiteiten-voor-leerlingen/casus-stad-van-de-toekomst)
+- Lesmateriaal [NL2120: toolkit voor een hoopvolle, duurzame toekomst](https://www.wur.nl/nl/onderwijs/pre-university/voor-docenten/lesmateriaal/open-leermaterialen-nederland-2120)
 <!-- - Lesmodule [Stikstof: Wat is het probleem?](https://www.lessonup.com/en/channel/4tuschools/lesson/BgagqNBMFLsPjtWtN) --->
 
 <br>
